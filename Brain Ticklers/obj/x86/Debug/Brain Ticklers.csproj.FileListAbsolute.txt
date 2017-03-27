@@ -1,0 +1,11 @@
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\bin\Debug\Brain Ticklers.exe
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\bin\Debug\Brain Ticklers.pdb
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain_Ticklers.SplashScreen.resources
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain_Ticklers.Main_Form.resources
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain_Ticklers.Properties.Resources.resources
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain Ticklers.csproj.GenerateResource.Cache
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain Ticklers.exe
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain Ticklers.pdb
+C:\Users\Edison\Desktop\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain Ticklers.csprojResolveAssemblyReference.cache
+C:\Users\MiGutierrez\Downloads\Compressed\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain Ticklers.exe
+C:\Users\MiGutierrez\Downloads\Compressed\Brain Ticklers\Brain Ticklers\obj\x86\Debug\Brain Ticklers.pdb
